@@ -15,6 +15,7 @@ config = {
         // Visit http://support.ghost.org/mail for instructions
         mail: {
             transport: 'SMTP',
+            fromaddress: 'noreply@govhack.org',
             options: {
                 host: 'smtp.mandrillapp.com',
                 port: 587,
@@ -53,6 +54,7 @@ config = {
         url: 'http://blog.govhack.org',
         mail: {
             transport: 'SMTP',
+            fromaddress: 'noreply@govhack.org',
             options: {
                 host: 'smtp.mandrillapp.com',
                 port: 587,
