@@ -52,6 +52,8 @@ config = {
 
     production: {
         url: 'http://blog.govhack.org',
+        urlSSL: 'https://blog.govhack.org',
+        forceAdminSSL: true,
         mail: {
             transport: 'SMTP',
             fromaddress: 'noreply@govhack.org',
