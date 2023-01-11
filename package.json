@@ -48,7 +48,7 @@
     "intl": "1.0.1",
     "intl-messageformat": "1.2.0",
     "jsonpath": "0.2.2",
-    "knex": "0.19.5",
+    "knex": "2.4.0",
     "lodash": "4.17.19",
     "moment": "2.19.3",
     "morgan": "1.9.1",
